@@ -14,15 +14,19 @@ I have Created the backend server for my current City Explorer app.
 I need to create a new local server in which I can both store and retrieve data from. 
 
 ## Architecture
-<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+
+The design of this app is to have an input where you are able to input a specific location and this app would send an API call to retrieve the information about the city, that you looked for, you would get the weather and the lon and lat.
 
 ## Change Log
-<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
-01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+
+11-05-2022 8:00pm -Created express server for the app. -->
+11-06-2022
 
 ## Credit and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
+
+Special thanks to hex and Gaz for all the help. 
+
 Time Estimates
 For each of the lab features, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
@@ -37,3 +41,5 @@ Finish time: __12__
 Actual time needed to complete: ___still in progress__
 
 <!-- I worked alongside the class -->
+
+[image](./assest/Screen%20Shot%202022-10-05%20at%207.00.46%20PM.png)
