@@ -1,8 +1,9 @@
 # city-explorer-api
 
-# Project Name
+# Project Name Created my back end server
 
-**Author**: Your Name Goes Here
+
+**Author**: Christopher Lopez
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
@@ -19,13 +20,13 @@ The design of this app is to have an input where you are able to input a specifi
 
 ## Change Log
 
+11-15-2022 8:00pm -Created express server for the app. -->
+11-18-2022 5:00pm -Created modules for my end points -->
 
-11-05-2022 8:00pm -Created express server for the app. -->
-11-06-2022
 
 ## Credit and Collaborations
 
-Special thanks to hex and Gaz for all the help. 
+Special thanks to hex and Gaz for all the help.
 
 Time Estimates
 For each of the lab features, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
@@ -43,3 +44,14 @@ Actual time needed to complete: ___still in progress__
 <!-- I worked alongside the class -->
 
 [image](./assest/Screen%20Shot%202022-10-05%20at%207.00.46%20PM.png)
+
+
+Name of feature: _________Created Modules for eac request_______________
+
+Estimate of time needed to complete: _1hr____
+
+Start time: __5pm___
+
+Finish time: __6pm__
+
+Actual time needed to complete: ___1hr 20 minutes_
