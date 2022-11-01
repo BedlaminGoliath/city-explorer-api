@@ -46,7 +46,7 @@ Actual time needed to complete: ___still in progress__
 [image](./assest/Screen%20Shot%202022-10-05%20at%207.00.46%20PM.png)
 
 
-Name of feature: _________Created Modules for eac request_______________
+Name of feature: _________Created Modules for each request_______________
 
 Estimate of time needed to complete: _1hr____
 
